@@ -2,6 +2,9 @@
 Find cores as you travel towards the horizon
 
 Coreizon is a sidescrolling game programmed in JavaScript.
+Edits:
+Friday, Feb 27, 2015 - added ReadMe. Starting implementation details.
+
 
 ***Story:
   Cabal is a young boy who is exploring the world. His parents left years ago to
